@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'SABIA QUE DIRIAS QUE SI JEJEJE... ESCOJE UNA PELICULA DE CINEPLANET PARA IR A VERLA JUNTOS ESE DIA EN LA TARDE';
+    document.getElementById('messageContainer').innerHTML = 'Sabia que dirias que si, ahora escribeme jeje';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
